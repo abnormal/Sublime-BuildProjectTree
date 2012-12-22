@@ -10,6 +10,7 @@ Builds entire project tree.
 * Press `ctrl+shift+alt+t` to build the project tree
 
 e.g.
+
     Hello World/
         index.php
         controllers/
@@ -28,6 +29,5 @@ will create following project structure,
     Hello World/controllers/Default.php
     Hello World/controllers/Greetings.php
     Hello World/models/Greetings.php
-    Hello World/views/Greetings.php
     Hello World/views/greetings/greet.php
 
