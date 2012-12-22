@@ -10,17 +10,18 @@ Builds entire project tree.
 * Save it.
 * Press `ctrl+shift+alt+t` to build the project tree
 
-    e.g.
-        Hello World/
-            index.php
-            controllers/
-                Default.php
-                Greetings.php
-            models/
-                Greetings.php
-            views/
-                greetings/
-                    greet.php
+e.g.
+
+    Hello World/
+        index.php
+        controllers/
+            Default.php
+            Greetings.php
+        models/
+            Greetings.php
+        views/
+            greetings/
+                greet.php
 
 will create following project structure,
 
