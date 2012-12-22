@@ -1,0 +1,6 @@
+[
+	{
+		"caption": "Build Project Tree",
+		"command": "build_project_tree"
+	}
+]

@@ -1,0 +1,5 @@
+[
+	{ "keys": ["ctrl+shift+alt+t"], "command": "build_project_tree"
+    }
+]
+
