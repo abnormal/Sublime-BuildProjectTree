@@ -7,6 +7,7 @@ Builds entire project tree.
 * Create project directory.
 * Create a text file and open it with Sublime.
 * Define the project structure.
+* Save it.
 * Press `ctrl+shift+alt+t` to build the project tree
 
     e.g.
